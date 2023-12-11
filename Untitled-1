@@ -1,0 +1,7 @@
+ #111d5e (dark blue)
+
+#c70039 (dark pink)
+
+#f37121(dark orange)
+ #ffbd69 (light orange)
+ onmouseover="playFun()" onmouseout="stopFun()" onclick="togglePlay()" 
